@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi! I'm Maria the Designer turned Coder 👩🏽‍💻
 
 <!--
 **mxria-a/mxria-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
