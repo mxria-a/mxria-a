@@ -1,4 +1,8 @@
-## Hi! I'm Maria the Designer turned Coder 👩🏽‍💻
+# Hi! I'm Maria the Designer turned Coder 👩🏽‍💻
+
+## About Me
+Hi! I’m Maria. But I usually go by <sup>_🎶 Mariaa Mariaa 🎶_</sup>  
+I'm a UX/UI designer transitioning into Software Development, and I've successfully just finished a **Full-Stack Developer CFG Degree** with Code First Girls.  
 
 <!--
 **mxria-a/mxria-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
