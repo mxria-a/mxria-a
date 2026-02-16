@@ -1,7 +1,7 @@
 # Hi, I’m Maria — a Designer turned Developer 👩🏽‍💻
 
-## About Me
-Hi! I’m Maria. But I usually go by <sup>_🎶 Mariaa Mariaa 🎶_</sup>  
+I usually go by <sup>_🎶 Mariaa Mariaa 🎶_</sup>  
+
 I'm a UX/UI designer transitioning into Software Development, and I've successfully just finished a **Full-Stack Developer CFG Degree** with Code First Girls.  
 
 <!--
