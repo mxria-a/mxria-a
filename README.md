@@ -1,4 +1,4 @@
-# Hi! I'm Maria the Designer turned Coder 👩🏽‍💻
+# Hi, I’m Maria — a Designer turned Developer 👩🏽‍💻
 
 ## About Me
 Hi! I’m Maria. But I usually go by <sup>_🎶 Mariaa Mariaa 🎶_</sup>  
