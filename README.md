@@ -1,8 +1,33 @@
 # Hi, I’m Maria — a Designer turned Developer 👩🏽‍💻
 
-I usually go by <sup>_🎶 Mariaa Mariaa 🎶_</sup>  
+I’m a UX/UI Designer turned Developer with a passion for creating intuitive, accessible, and visually engaging web applications. I’ve completed a Full-Stack Development degree with Code First Girls, and I’m also actively expanding my skillset through real-world projects and continued learning via the Full-Stack pathway on Scrimba, combining my design thinking with code to grow as a Front-End / Software Developer.
 
-I'm a UX/UI designer transitioning into Software Development, and I've successfully just finished a **Full-Stack Developer CFG Degree** with Code First Girls.  
+---
+
+### 🛠 Tech Stack
+**Frontend:** HTML, CSS, JavaScript, React, Redux, TypeScript  
+**Backend:** Node.js, Express  
+**Database:** MySQL  
+**Design:** Figma, UX Research, Prototyping  
+**Developer Tools:** Git, GitHub, VS Code  
+
+---
+
+### 💻 Projects
+1. Food Delivery App - `Pickier` - A delivery app that filters by food item.
+
+---
+
+### 🎓 Certifications
+**Full-Stack Development Degree** - by CFG  
+**Kickstarter** - by CFG  
+**UX Deisgn course** - by Google  
+
+---
+
+### 📫 Let’s connect
+- LinkedIn: [LinkedIn] (https://www.linkedin.com/in/maria-ameyinoge-a5b6a017b)  
+- Portfolio: [your link here]  
 
 <!--
 **mxria-a/mxria-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
