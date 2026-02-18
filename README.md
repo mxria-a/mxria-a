@@ -26,8 +26,7 @@ I’m a UX/UI Designer turned Developer with a passion for creating intuitive, a
 ---
 
 ### 📫 Let’s connect
-- LinkedIn: [LinkedIn] (https://www.linkedin.com/in/maria-ameyinoge-a5b6a017b)  
-- Portfolio: [your link here]  
+- [LinkedIn](https://www.linkedin.com/in/maria-ameyinoge-a5b6a017b)  
 
 <!--
 **mxria-a/mxria-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
