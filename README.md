@@ -30,7 +30,11 @@ I’m a UX/UI Designer turned Developer with a passion for creating intuitive, a
 ---
 
 ### 💻 Projects
-- **Food Delivery App:** `Pickier` - A delivery app that filters by food item.
+- 🍔 **Food Delivery App:** `Pickier` - A delivery app that filters by food item.
+- 🏀 **Scoreboard App:** `Dunkin' & Clunkin'` — An interactive basketball scoreboard.
+- 💡 **Advice Generator** — A random advice generator powered by an external API.
+- ⭐ **Interactive Rating Component** — A dynamic user rating interface.
+- 🍳 **Recipe Page** — A responsive recipe layout built with semantic HTML and CSS.
 
 ---
 
