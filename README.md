@@ -31,10 +31,10 @@ I’m a UX/UI Designer turned Developer with a passion for creating intuitive, a
 
 ### 💻 Projects
 - 🍔 [**Food Delivery App:**](https://cfg-group5-project.vercel.app/)  `Pickier` - A delivery app that filters by food item.
-- 🏀 [**Scoreboard App:**](scoreboard-app-virid.vercel.app)  `Dunkin' & Clunkin'` - An interactive basketball scoreboard.
-- 💡 [**Advice Generator:**](advice-generator-app-eight-beta.vercel.app/) A random advice generator powered by an external API.
-- ⭐ [**Interactive Rating Component:**](interactive-rating-component-seven-sooty.vercel.app) A dynamic user rating interface.
-- 🍳 [**Recipe Page:**](recipe-page-gilt-xi.vercel.app) A responsive recipe layout built with semantic HTML and CSS.
+- 🏀 [**Scoreboard App:**](https://scoreboard-app-virid.vercel.app/)  `Dunkin' & Clunkin'` - An interactive basketball scoreboard.
+- 💡 [**Advice Generator:**](https://advice-generator-app-eight-beta.vercel.app/) A random advice generator powered by an external API.
+- ⭐ [**Interactive Rating Component:**](https://interactive-rating-component-seven-sooty.vercel.app/) A dynamic user rating interface.
+- 🍳 [**Recipe Page:**](https://recipe-page-gilt-xi.vercel.app/) A responsive recipe layout built with semantic HTML and CSS.
 
 ---
 
